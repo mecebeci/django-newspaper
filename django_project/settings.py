@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'pages',
     'crispy_forms',
     'crispy_bootstrap5',
+    'articles',
 ]
 
 MIDDLEWARE = [
@@ -109,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Istanbul'
 
 USE_I18N = True
 
